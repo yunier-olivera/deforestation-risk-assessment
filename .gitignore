@@ -1,3 +1,9 @@
+# Unnecessary files and directories
+scripts/data/testing.py
+
+# Unnecessary files and directories
+tmp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
